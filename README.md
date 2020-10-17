@@ -7,7 +7,7 @@ This hw rebuilds the original CSS into sass. I created modules in sass and creat
 Create an AJAX request for the JSON file using the Fetch API or the XHTTP object and build dynamic content.
 
 ## Installation
-There is no installation process for this repo.Simply pulldown and start working!
+There is no installation process for this repo.Simply pulldown and start working !
 
 
 ## MIT License
